@@ -9,7 +9,7 @@ To install, download [qt5-opengl-dev_5.12.5_armhf.deb](https://github.com/koendv
 ```
 sudo apt update
 sudo apt install ./qt5-opengl-dev_5.12.5_armhf.deb
-or£º
+or
 sudo apt install ./qt5-opengl-dev_5.15.1_armhf.deb
 ```
 This installs Qt5 in ```/usr/lib/qt5.12/``` or ```/usr/lib/qt5.15/```
