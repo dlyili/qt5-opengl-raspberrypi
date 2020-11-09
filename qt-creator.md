@@ -35,11 +35,11 @@ mkdir deb/DEBIAN
 cat > deb/DEBIAN/control <<EOD
 Package: qt5-opengl-qtcreator
 Version: 4.13.2
-Maintainer: Koen <koen@mcvax.org>
+Maintainer: Koen <koen@mcvax.org> jjj <jiangjianjun716@163.com
 Priority: optional
 Section: libs
 Bugs: https://github.com/koendv/qt5-opengl-raspberrypi/issues
-Homepage: https://github.com/koendv/qt5-opengl-raspberrypi
+Homepage: https://github.com/dlyili/qt5-opengl-raspberrypi
 Depends: build-essential
 Architecture: armhf
 Description: qtcreator IDE for Qt5.15 LTS with desktop OpenGL

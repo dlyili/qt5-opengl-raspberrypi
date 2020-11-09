@@ -1,0 +1,12 @@
+Package: qt5-opengl-qtcreator
+Version: 4.13.2
+Maintainer: Koen <koen@mcvax.org> jjj <jiangjianjun716@163.com
+Priority: optional
+Section: libs
+Bugs: https://github.com/koendv/qt5-opengl-raspberrypi/issues
+Homepage: https://github.com/dlyili/qt5-opengl-raspberrypi
+Depends: build-essential
+Architecture: armhf
+Description: qtcreator IDE for Qt5.15 LTS with desktop OpenGL
+ qtcreator IDE for Qt5.15 LTS, compiled for raspberry pi 4 running 2019-09-26-raspbian-buster[-lite.].
+ Install qt5-opengl-dev_5.15.1_armhf.deb first.
